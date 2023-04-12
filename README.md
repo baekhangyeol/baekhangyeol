@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HanGyeol%90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HanGyeol%90&fontSize=90)
 ![HanGyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=snake7667&show_icons=true&theme=cobalt)
 
 
