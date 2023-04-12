@@ -1,6 +1,6 @@
 ![HanGyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=snake7667&show_icons=true&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snake7667&layout=Compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snake7667&layout=compact&theme=merko)
 
 <!--
 **snake7667/snake7667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
