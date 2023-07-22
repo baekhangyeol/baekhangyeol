@@ -1,9 +1,7 @@
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snake7667&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
 
 <!--
-**snake7667/snake7667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**baekhangyeol/baekhangyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
