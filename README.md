@@ -1,3 +1,11 @@
+<a href="https://medium.com/@hgbaek1128" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=appveyor&logoColor=FFFFFF"/>
+</a>
+<a href="https://velog.io/@snake7667" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=appveyor&logoColor=FFFFFF"/>
+</a>
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baekhangyeol&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
 
 <!--
