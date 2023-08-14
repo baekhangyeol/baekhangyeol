@@ -41,7 +41,7 @@
 
   <strong>DevOps</strong>
 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/AMAZON EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/AMAZON RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/AMAZON S3-569A31?style=for-the-badge&logo=amazons3&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/AMAZON EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/AMAZON RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/AMAZON S3-569A31?style=for-the-badge&logo=amazons3&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=FFFFFF"/>
 
   </div>
 
