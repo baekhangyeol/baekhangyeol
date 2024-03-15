@@ -15,9 +15,6 @@
   <a href="https://velog.io/@snake7667" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=FFFFFF"/>
   </a>
-  <a href="https://disquiet.io/@snake011128" target="_blank">
-    <img src="https://img.shields.io/badge/Disquiet-000000?style=for-the-badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/%ED%95%9C%EA%B2%B0-%EB%B0%B1-b07940274/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
   </a>
